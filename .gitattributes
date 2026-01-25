@@ -1,0 +1,5 @@
+.gitignore export-ignore
+.npmignore export-ignore
+.vscodeignore export-ignore
+.gitattributes export-ignore
+.DS_Store export-ignore

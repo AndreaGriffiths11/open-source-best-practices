@@ -1,0 +1,17 @@
+{
+  "name": "open-source-best-practices",
+  "version": "1.0.0",
+  "description": "A skill that helps you prepare your project for open source release.",
+  "files": [
+    "SKILL.md",
+    "github-copilot/**/*",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreaGriffiths11/open-source-best-practices.git"
+  },
+  "author": "AndreaGriffiths11",
+  "license": "MIT"
+}
