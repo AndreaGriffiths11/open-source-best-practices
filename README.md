@@ -4,7 +4,7 @@
 
 I built this skill because I've seen too many projects launch publicly without thinking through what comes next. Whether you're open-sourcing something for the first time or hardening an existing repo, this framework keeps you from discovering critical gaps after your first contributors show up.
 
-This isn't theoretical. It's built on what actually breaks projects: missing security cleanup, unclear governance, burned-out maintainers, and documentation that assumes too much knowledge. We fix those things first.
+Built on what actually breaks projects: missing security cleanup, unclear governance, burned-out maintainers, and documentation that assumes too much knowledge. We fix those things first.
 
 ## What's Inside
 
@@ -12,7 +12,7 @@ You get 8 phases that build on each other, starting with security and ending wit
 
 **The phases:**
 
-Phase 1 is security—clean your git history and remove secrets before anything else. Use [Git History Cleaner](https://andreagriffiths11.github.io/git-history-cleaner/) to scan for and remove API keys, credentials, .env files, and sensitive data. If you skip this, nothing else matters.
+Phase 1 is security—clean your git history and remove secrets before anything else. Use [Git History Cleaner](https://andreagriffiths11.github.io/git-history-cleaner/) to scan for and remove API keys, credentials, .env files, and sensitive data. 
 
 Phase 2 covers legal and ownership. Choose your license, verify you own the code, and define what the project is actually for.
 
@@ -92,6 +92,10 @@ Ready to move forward?
 1. Read [SKILL.md](SKILL.md) for the complete framework
 2. Start with Phase 1: Git history cleanup using [Git History Cleaner](https://andreagriffiths11.github.io/git-history-cleaner/)
 3. Work through each phase in order
+
+**Want to help?** See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute improvements, suggest changes, or add new content.
+
+**Community standards:** Review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand expectations for respectful, inclusive interactions.
 
 Questions or ideas? Open an issue on [GitHub](https://github.com/AndreaGriffiths11/open-source-best-practices) or find me on [X](https://x.com/acolombiadev).
 
