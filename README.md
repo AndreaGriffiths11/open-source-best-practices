@@ -33,7 +33,7 @@ Phase 8 is funding and sustainability. GitHub Sponsors, transparency. Optional, 
 To add this skill to your project, run:
 
 ```bash
-npx skills add https://github.com/andreagriffiths11/open-source-best-practices --skill open-source-best-practices
+npx skills add https://github.com/AndreaGriffiths11/open-source-best-practices --skill open-source-best-practices
 ```
 
 This command installs the open-source-best-practices skill, making it available to AI agents like GitHub Copilot that can guide you through the framework.
