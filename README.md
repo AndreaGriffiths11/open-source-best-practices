@@ -28,6 +28,16 @@ Phase 7 is security and vulnerability reporting. A process for handling incident
 
 Phase 8 is funding and sustainability. GitHub Sponsors, transparency. Optional, but worth thinking about early.
 
+## Installation
+
+To add this skill to your project, run:
+
+```bash
+npx skills add https://github.com/AndreaGriffiths11/open-source-best-practices --skill open-source-best-practices
+```
+
+This command installs the open-source-best-practices skill, making it available to AI agents like GitHub Copilot that can guide you through the framework.
+
 ## How to Use This
 
 **Start here:** Read the full framework in [SKILL.md](SKILL.md). It has all 8 phases with checklists and explains why each one matters.
